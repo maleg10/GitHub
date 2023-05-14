@@ -1,2 +1,2 @@
 Hello, World!
-test for conflict
+делаем pull request!
